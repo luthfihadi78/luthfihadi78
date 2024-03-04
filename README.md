@@ -2,7 +2,7 @@
 
 # Halo semua! 
 
-Perkenalkan nama saya **Moch Luthfi Hadiwidjaja**.\
+Perkenalkan nama saya **Moch Luthfi Hadiwidjaja**.
 
 Saya seorang **Android Developer**
 
