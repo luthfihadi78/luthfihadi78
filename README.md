@@ -1,4 +1,4 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/luthfihadi78/luthfihadi78/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/luthfihadi78/luthfihadi78/main/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/luthfihadi78/luthfihadi78/blob/output/github-snake-dark.svg)
 
 # Halo semua! 
 
