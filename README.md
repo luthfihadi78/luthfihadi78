@@ -1,4 +1,4 @@
-### Hi there 👋
+![snake gif](https://github.com/luthfihadi78/luthfihadi78/blob/output/github-snake-dark.svg)
 
 # Halo semua! 
 
