@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:8A6414,100:D9A441&height=190&section=header&text=Moch%20Luthfi%20Hadiwidjaja&fontSize=40&fontColor=F5D98B&fontAlignY=33&desc=Full-Stack%20Engineer%20%C2%B7%20Android%20%C2%B7%20Web3&descSize=17&descAlignY=54" width="100%" alt="Moch Luthfi Hadiwidjaja" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:8A6414,100:D9A441&height=190&section=header&text=Moch%20Luthfi%20Hadiwidjaja&fontSize=40&fontColor=F5D98B&fontAlignY=33&desc=Software%20Engineer%20%C2%B7%20Web3%20%26%20AI&descSize=18&descAlignY=54" width="100%" alt="Moch Luthfi Hadiwidjaja — Software Engineer, Web3 and AI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&pause=1400&color=D9A441&center=true&vCenter=true&width=580&lines=Android+in+Kotlin+%C2%B7+Flutter+%C2%B7+Spring+Boot;Systematic+trading+systems%2C+running+live;Web3+enthusiast+%E2%80%94+building+on-chain" alt="Android in Kotlin, Flutter, Spring Boot — systematic trading systems — Web3 enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&pause=1400&color=D9A441&center=true&vCenter=true&width=600&lines=Software+engineer+focused+on+Web3+and+AI;Systems+that+decide+on+their+own%2C+live;Kotlin+%C2%B7+Flutter+%C2%B7+Spring+Boot+%C2%B7+Python" alt="Software engineer focused on Web3 and AI — systems that decide on their own — Kotlin, Flutter, Spring Boot, Python" />
 
 <br />
 
@@ -19,24 +19,32 @@
 
 ## 👋 About me
 
-I'm a **full-stack software engineer** from Indonesia. I started in **native Android
-with Kotlin**, then kept following the stack down — into the **Spring Boot** services
-behind the app, the **databases** and **APIs** underneath those, and eventually into
-systems that make their own decisions.
+I'm a **software engineer** from Indonesia. My focus is **Web3 and AI** — two fields
+that share a premise I find compelling: software that runs without anyone standing in
+the middle of it.
 
-Right now most of my energy goes into **quantitative trading infrastructure**: engines
-that read live market data, decide in real time, and have to keep running when nobody
-is watching. That work taught me the habit I bring to everything else — *a result you
-haven't tried to disprove isn't a result yet.*
+I came up through **native Android with Kotlin**, then followed the stack down — the
+**Spring Boot** services behind the app, the **databases** and **APIs** underneath
+those. That engineering foundation is what I build the rest on top of.
 
-I'm also a **Web3 enthusiast**, interested in the layer where on-chain systems meet
-interfaces that ordinary people can actually use.
+**🤖 AI** is where most of my energy goes. I build systems that decide on their own:
+read live data, score it, act — no human in the loop. My main project is a quantitative
+trading engine, and the hard part there was never inventing a strategy. It was *proving
+a strategy was real*: feature pipelines, out-of-sample testing, and monitoring that
+tells me when a model has quietly stopped working. The habit that work drills into you
+— **a result you haven't tried to disprove isn't a result yet** — is the one I carry
+into everything else.
+
+**⛓️ Web3** is the other half. Smart contracts, on-chain data, and the problem sitting
+underneath both: making decentralised infrastructure usable by people who shouldn't
+have to know it's decentralised.
 
 ```yaml
 name:     Moch Luthfi Hadiwidjaja
-role:     Full-Stack Software Engineer
-stack:    [ Kotlin/Android, Flutter, Java/Spring Boot, Python, JavaScript ]
-building: automated trading systems · mobile apps · web3
+role:     Software Engineer
+focus:    [ Web3, AI ]
+stack:    [ Python, Kotlin/Android, Flutter, Java/Spring Boot, Solidity ]
+building: autonomous trading systems · on-chain tooling · mobile apps
 approach: measure first, ship second
 ```
 
@@ -48,51 +56,60 @@ approach: measure first, ship second
 <tr>
 <td valign="top" width="50%">
 
-**📱 Mobile**
+**🤖 AI & Data**
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,gradle&theme=dark" alt="Kotlin, Android Studio, Flutter, Dart, Gradle" />
+<img src="https://skillicons.dev/icons?i=py,anaconda&theme=dark" alt="Python, Anaconda" />
 
-Native Android in Kotlin · cross-platform apps
-with Flutter · Material Design · Play Store
-releases
+<img src="https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=D9A441" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=D9A441" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-0D1117?style=flat-square&logo=scipy&logoColor=D9A441" alt="SciPy" />
+
+Feature pipelines · statistical modelling ·
+out-of-sample validation · autonomous
+decision systems
 
 </td>
 <td valign="top" width="50%">
 
-**⚙️ Backend & Data**
+**⛓️ Web3**
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,firebase&theme=dark" alt="Java, Spring Boot, Python, PostgreSQL, MySQL, Firebase" />
+<img src="https://skillicons.dev/icons?i=solidity,nodejs,js&theme=dark" alt="Solidity, Node.js, JavaScript" />
 
-REST API design · relational schema modelling ·
-background workers · rate-limited third-party
-integrations
+<img src="https://img.shields.io/badge/Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=D9A441" alt="Ethereum" />
+<img src="https://img.shields.io/badge/Web3.js-0D1117?style=flat-square&logo=web3dotjs&logoColor=D9A441" alt="Web3.js" />
+
+Smart contracts · on-chain data · wallet
+integration · exchange and market APIs
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**🌐 Web & Web3**
+**📱 Mobile**
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,solidity&theme=dark" alt="JavaScript, React, Node.js, HTML, CSS, Solidity" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,gradle&theme=dark" alt="Kotlin, Android Studio, Flutter, Dart, Gradle" />
 
-Component-driven interfaces · Node services ·
-smart contracts · on-chain data and wallet
-integration
+Native Android in Kotlin · cross-platform apps
+with Flutter · Material Design
 
 </td>
 <td valign="top">
 
-**🧰 Tooling**
+**⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman&theme=dark" alt="Git, GitHub, Linux, Bash, VS Code, Postman" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,firebase&theme=dark" alt="Java, Spring Boot, PostgreSQL, MySQL, Firebase" />
 
-Git workflows · shell automation · CI pipelines ·
-API testing · reproducible research scripts
+REST API design · relational schema modelling ·
+background workers · third-party integrations
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman,docker&theme=dark" alt="Git, GitHub, Linux, Bash, VS Code, Postman, Docker" />
+</div>
 
 ---
 
@@ -100,8 +117,8 @@ API testing · reproducible research scripts
 
 **📊 Qkuk Terminal** — *private repository*
 
-An automated crypto trading research and signal platform. Not an indicator wrapper —
-a full pipeline, end to end:
+An autonomous trading system. It reads the market, decides, and acts on its own — so
+most of the engineering went into making sure it decides *well*:
 
 | Layer | What it does |
 |:--|:--|
@@ -111,7 +128,7 @@ a full pipeline, end to end:
 | **Monitoring** | Health checks and a decay alarm that flags when an edge stops working |
 | **Delivery** | Signals pushed to WhatsApp and Telegram, plus a live web terminal |
 
-`Python` · `pandas` · `NumPy` · `Node.js` · `Binance API`
+`Python` · `pandas` · `NumPy` · `SciPy` · `Node.js` · `Binance API`
 
 <br />
 
@@ -147,24 +164,13 @@ of the beginning.
 
 ---
 
-## 📈 GitHub stats
+## 📈 Activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luthfihadi78&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luthfihadi78&theme=default" width="88%" alt="Profile summary" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luthfihadi78&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luthfihadi78&theme=default" height="185" alt="Languages by repository" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luthfihadi78&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luthfihadi78&theme=default" height="185" alt="Languages by commit" />
 </picture>
 
 <br />
@@ -186,7 +192,7 @@ of the beginning.
 
 ### Let's connect
 
-Open to collaborating on **mobile**, **backend**, and **web3** projects.
+Open to collaborating on **Web3**, **AI**, and **mobile** projects.
 
 <a href="https://www.linkedin.com/in/luthfi-hadiwidjaja-aa91b5171/">
   <img src="https://img.shields.io/badge/LinkedIn-D9A441?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" /></a>
