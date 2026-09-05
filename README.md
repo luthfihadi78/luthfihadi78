@@ -4,7 +4,7 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/luthfi-hadiwidjaja-aa91b5171/">
+<a href="https://www.linkedin.com/in/moch-luthfi-hadiwidjaja-aa91b5171/">
   <img src="https://img.shields.io/badge/LinkedIn-D9A441?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" /></a>
 <a href="mailto:luthfihadi78@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D9A441" alt="Email" /></a>
@@ -168,7 +168,7 @@ of the beginning.
 
 Open to collaborating on **Web3**, **AI**, and **mobile** projects.
 
-<a href="https://www.linkedin.com/in/luthfi-hadiwidjaja-aa91b5171/">
+<a href="https://www.linkedin.com/in/moch-luthfi-hadiwidjaja-aa91b5171/">
   <img src="https://img.shields.io/badge/LinkedIn-D9A441?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" /></a>
 <a href="mailto:luthfihadi78@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D9A441" alt="Gmail" /></a>
