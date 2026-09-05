@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:8A6414,100:D9A441&height=190&section=header&text=Moch%20Luthfi%20Hadiwidjaja&fontSize=40&fontColor=F5D98B&fontAlignY=33&desc=Software%20Engineer%20%C2%B7%20Web3%20%26%20AI&descSize=18&descAlignY=54" width="100%" alt="Moch Luthfi Hadiwidjaja — Software Engineer, Web3 and AI" />
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=19&pause=1400&color=D9A441&center=true&vCenter=true&width=600&lines=Software+engineer+focused+on+Web3+and+AI;Systems+that+decide+on+their+own%2C+live;Kotlin+%C2%B7+Flutter+%C2%B7+Spring+Boot+%C2%B7+Python" alt="Software engineer focused on Web3 and AI — systems that decide on their own — Kotlin, Flutter, Spring Boot, Python" />
+<img src="https://raw.githubusercontent.com/luthfihadi78/luthfihadi78/main/banner.svg" width="100%" alt="Moch Luthfi Hadiwidjaja — Software Engineer, Web3 and AI" />
 
 <br />
 
@@ -11,7 +9,7 @@
 <a href="mailto:luthfihadi78@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D9A441" alt="Email" /></a>
 <a href="https://luthfihadi78.github.io/">
-  <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=githubpages&logoColor=D9A441" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=D9A441" alt="Portfolio" /></a>
 
 </div>
 
@@ -115,7 +113,7 @@ background workers · third-party integrations
 
 ## 🚀 What I'm building
 
-**📊 Qkuk Terminal** — *private repository*
+**📊 [Qkuk Terminal](https://luthfihadi78.github.io/)** — *private repository · [read the full write-up](https://luthfihadi78.github.io/)*
 
 An autonomous trading system. It reads the market, decides, and acts on its own — so
 most of the engineering went into making sure it decides *well*:
@@ -164,30 +162,6 @@ of the beginning.
 
 ---
 
-## 📈 Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luthfihadi78&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luthfihadi78&theme=default" width="88%" alt="Profile summary" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luthfihadi78&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luthfihadi78&theme=default" height="185" alt="Contribution stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=luthfihadi78&hide_border=true&background=0D1117&ring=D9A441&fire=D9A441&currStreakLabel=D9A441&sideLabels=B2BAC6&dates=7D8794&currStreakNum=E8EBF0&sideNums=E8EBF0" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luthfihadi78&hide_border=true&ring=8A6414&fire=8A6414&currStreakLabel=8A6414" height="185" alt="Contribution streak" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's connect
@@ -202,7 +176,5 @@ Open to collaborating on **Web3**, **AI**, and **mobile** projects.
 <br /><br />
 
 <sub><i>Measure first, ship second.</i></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9A441,55:8A6414,100:0D1117&height=110&section=footer" width="100%" alt="" />
 
 </div>
