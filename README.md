@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D9A441" alt="Email" /></a>
 <a href="https://luthfihadi78.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=D9A441" alt="Portfolio" /></a>
+<a href="https://github.com/luthfihadi78/qkuk-terminal-showcase">
+  <img src="https://img.shields.io/badge/Showcase-Qkuk_Terminal-D9A441?style=for-the-badge&logo=github&logoColor=0D1117" alt="Showcase" /></a>
 
 </div>
 
@@ -113,7 +115,7 @@ background workers · third-party integrations
 
 ## 🚀 What I'm building
 
-**📊 [Qkuk Terminal](https://luthfihadi78.github.io/)** — *private repository · [read the full write-up](https://luthfihadi78.github.io/)*
+**📊 [Qkuk Terminal](https://github.com/luthfihadi78/qkuk-terminal-showcase)** — *private engine · [public showcase →](https://github.com/luthfihadi78/qkuk-terminal-showcase) · [live terminal](https://luthfihadi78.github.io/qkuk/)*
 
 An autonomous trading system. It reads the market, decides, and acts on its own — so
 most of the engineering went into making sure it decides *well*:
@@ -127,6 +129,10 @@ most of the engineering went into making sure it decides *well*:
 | **Delivery** | Signals pushed to WhatsApp and Telegram, plus a live web terminal |
 
 `Python` · `pandas` · `NumPy` · `SciPy` · `Node.js` · `Binance API`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/luthfihadi78/qkuk-terminal-showcase/main/docs/terminal_hero.png" width="92%" alt="Qkuk Terminal — live dashboard" />
+</div>
 
 <br />
 
